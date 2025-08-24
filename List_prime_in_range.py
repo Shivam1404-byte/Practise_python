@@ -21,6 +21,6 @@ def prime_in_range(num):
     for i in prime_num:
         print(i,end=" ")
 
-print("Enter the range of prime number : ")
+print("Enter the range to find prime number : ")
 num = int(input())
 prime_in_range(num)
